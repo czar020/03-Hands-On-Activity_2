@@ -1,0 +1,10 @@
+C:\Users\Czarina\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Czarina\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Czarina\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Czarina\source\repos\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\Czarina\source\repos\Inventory\Inventory\obj\Debug\Inventory.NumberFormatException.resources
+C:\Users\Czarina\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Czarina\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\Czarina\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Czarina\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\Czarina\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
